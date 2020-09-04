@@ -1,0 +1,26 @@
+{
+  "name": "socialnetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosvldz/socialNetwork.git"
+  },
+  "author": "carlosvldzzz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosvldz/socialNetwork/issues"
+  },
+  "homepage": "https://github.com/carlosvldz/socialNetwork#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nanoid": "^3.1.12",
+    "nodemon": "^2.0.4",
+    "swagger-ui-express": "^4.1.4"
+  }
+}
